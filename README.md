@@ -2,7 +2,7 @@
 
 This plugin can help you easily see what kind of models you have stored away under obscured file names in folders; discover if you have any hidden gems you've forgotten about!
 You can easily group similar objects into new collections and export them right away.
-As I used this tool, I quickly realized how many empty collections you create by regrouping objects, so I added a nice little "Delete Empty Collections" button.
+There's a "Delete Empty Collections" Button to clear up the old collections after you regroup your assets.
 
 
 
