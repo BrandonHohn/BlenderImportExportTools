@@ -14,6 +14,20 @@ As I used this tool, I quickly realized how many empty collections you create by
 
 
 
+
+### Importing Projects
+
+![Imported](https://github.com/user-attachments/assets/cea9945e-4e83-48bd-927d-d7024fa88ff0)
+
+
+
+### Group Them and Export
+![Grouped](https://github.com/user-attachments/assets/b3e9c174-5264-4c16-bdc7-976b60baa6d4) ![After](https://github.com/user-attachments/assets/e9d2a7dc-8f50-4aec-b0bb-a0c72eabe76b)
+
+
+
+
+
 ### Features
 
 
