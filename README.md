@@ -21,8 +21,14 @@ There's a "Delete Empty Collections" Button to clear up the old collections afte
 
 
 
-### Group Them and Export
-![Grouped](https://github.com/user-attachments/assets/b3e9c174-5264-4c16-bdc7-976b60baa6d4) ![After](https://github.com/user-attachments/assets/e9d2a7dc-8f50-4aec-b0bb-a0c72eabe76b)
+### Group Them
+![Grouped](https://github.com/user-attachments/assets/b3e9c174-5264-4c16-bdc7-976b60baa6d4)
+
+
+
+### Export Them
+
+![After](https://github.com/user-attachments/assets/e9d2a7dc-8f50-4aec-b0bb-a0c72eabe76b)
 
 
 
