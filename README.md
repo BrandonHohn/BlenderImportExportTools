@@ -44,3 +44,8 @@ Lastly, simple delete empty collections button!
 Sometimes your meshes may have a pink texture issue. You can either reassign the texture, or attempt to recover the source texture though:
 File > External Data > Find Missing Files
 Whenever I have this issue, this fix immediately solves my issues.
+
+Sometimes the spacing is slightly off and creates an incomplete grid with some of the imported groups being slightly out of place.
+
+_Disclaimer_
+This project was created from start to end with prompt engineering as a test of an AI workflow.
