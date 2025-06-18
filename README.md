@@ -28,17 +28,28 @@ There's a "Delete Empty Collections" Button to clear up the old collections afte
 
 
 
-### Features
+## Features
+
+### Import
+
+After selecting a folder containing ".blend" files, all objects from the files will be imported into your current project in a grid-like formation. You can specify the number of projects' collections to be in a row before the next row is started.
+
+### Export
+
+Select a collection to export to a brand new Blender file.
+
+### Delete Empty Collections
+
+Remove any unwanted, empty collections immediately with this button.  
 
 
-Import from a folder of Blender files
-All Collections will be included and spaced out in a grid format.
-Add additional spacing per imported collection.
-Choose the max number of projects imported before starting a new row.
-Lastly, simple delete empty collections button!
+
+_Disclaimer_
+
+This project was created from start to end with prompt engineering as a test of an AI workflow.  
 
 
-
+  
 
 ### Potential Issues
 Sometimes your meshes may have a pink texture issue. You can either reassign the texture, or attempt to recover the source texture though:
@@ -46,7 +57,3 @@ File > External Data > Find Missing Files
 Whenever I have this issue, this fix immediately solves my issues.
 
 Sometimes the spacing is slightly off and creates an incomplete grid with some of the imported groups being slightly out of place.
-
-_Disclaimer_
-
-This project was created from start to end with prompt engineering as a test of an AI workflow.
